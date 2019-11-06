@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## On Understanding How Developers Perceive and Interpret Privacy Requirements
 
 You can use the [editor on GitHub](https://github.com/Marianapmaia/PrivacyRequirementsByDevelopers/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
