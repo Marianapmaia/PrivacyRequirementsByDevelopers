@@ -1,13 +1,9 @@
 ## On Understanding How Developers Perceive and Interpret Privacy Requirements
 
-You can use the [editor on GitHub](https://github.com/Marianapmaia/PrivacyRequirementsByDevelopers/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Authors: 
 ### Abstract:
 ### Data Collection
-[Questinnaire]
+[Questinnaire] 
 ### Data Analysis
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
