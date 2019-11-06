@@ -3,7 +3,7 @@
 ### Authors: 
 ### Abstract:
 ### Data Collection
-[Questinnaire] (https://github.com/Marianapmaia/PrivacyRequirementsByDevelopers/blob/master/Questionnaire.pdf) 
+[Questinnaire](https://github.com/Marianapmaia/PrivacyRequirementsByDevelopers/blob/master/Questionnaire.pdf).
 ### Data Analysis
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
