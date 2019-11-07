@@ -1,4 +1,4 @@
-## On Understanding How Developers Perceive and Interpret Privacy Requirements (Supplementary material)
+## On Understanding How Developers Perceive and Interpret Privacy Requirements (Supplementary Material)
 <div style="text-align: justify">We present on this page the supplementary material regarding the paper: On Understanding How Developers Perceive and Interpret Privacy Requirements (Research Preview).</div> 
 
 ### Authors: 
