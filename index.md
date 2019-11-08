@@ -22,5 +22,5 @@ We started the coding process by performing open coding, in which we created cod
 
 <div style="text-align: justify">The model presented in the figure below explains the personal factors that play a role in developers’ understanding of privacy. In the rectangles, we show nine categories as personal factors that affect positively (+) or negatively (-) how developers perceive and interpret privacy requirements. The arrows between categories (personal factors) represent that the related categories can influence each other. We also found some secondary factors (represented as a statement with an arrow to a category) which can influence positively (+), i.e., corroborate, or negatively (-), i.e., oppose the personal factors.</div>
 
-![Image](https://github.com/Marianapmaia/REFSQ2020/blob/master/PersonalTheoryV3.jpg)
+![Image](https://github.com/Marianapmaia/REFSQ2020/blob/master/PersonalTheoryV3.jpg?raw=true)
 
