@@ -17,11 +17,9 @@ Privacy Requirements, Software Development, and Qualitative study.
 ### Data Analysis
 
 <div style= "text-align: justify">The data analysis was conducted based on quantitative descriptive statistical analysis and qualitative coding principles of GT (Open coding; Axial coding; and Selective coding).
-We started the coding process by performing open coding, in which we created codes for extracts of the text. After that, in axial coding, we took further readings in the transcripts and the created codes (from open coding). Thus, we identified other text extracts and also group similar codes. Finally, in selective coding, we identified categories that codes could be linked to. These categories are the Personal factors that affect how developers interpret and perceive privacy in requirements engineering. </div>
+We started the coding process by performing open coding, in which we created codes for extracts of the text. After that, in axial coding, we took further readings in the transcripts and the created codes (from open coding). Thus, we identified other text extracts and also group similar codes. Finally, in selective coding, we identified categories that codes could be linked to. These categories are the Personal factors that affect how developers interpret and perceive privacy in requirements engineering.</div>
 
-<div style="text-align: justify">The model presented in the figure below explains the personal factors that play a role in developers’ understanding of privacy. 
-In the rectangles, we show nine categories as personal factors that affect positively (+) or negatively (-) how developers perceive and interpret privacy requirements. 
-The arrows between categories (personal factors) represent that the related categories can influence each other. We also found some secondary factors (represented as a statement with an arrow to a category) which can influence positively (+), i.e., corroborate, or negatively (-), i.e., oppose the personal factors.</div>
+<div style="text-align: justify">The model presented in the figure below explains the personal factors that play a role in developers’ understanding of privacy. In the rectangles, we show nine categories as personal factors that affect positively (+) or negatively (-) how developers perceive and interpret privacy requirements. The arrows between categories (personal factors) represent that the related categories can influence each other. We also found some secondary factors (represented as a statement with an arrow to a category) which can influence positively (+), i.e., corroborate, or negatively (-), i.e., oppose the personal factors.</div>
 
 
 
